@@ -1,5 +1,7 @@
 # Ania's memories - Semantic Search with SingleStore
 
+This code is to support the tutorial created [here](https://www.youtube.com/watch?v=bV3_u0p0cik).
+
 This app was created using `create-singlestoredb-app`
 
 ```sh

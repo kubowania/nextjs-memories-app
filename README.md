@@ -7,7 +7,7 @@ npx create-singlestoredb-app --template elegance-next
 ```
 ## Create Your Database
 1. Sign up for [SingleStore](https://msql.co/3M7hEiH) and create a database
-2. Use the following [script](Semantic Search with OpenAI Embedding.ipynb) in order to create a table in your database. This table will store Ania's memories as well as vector embeddings of each one.
+2. Use the following [script](Semantic%20Search%20with%20OpenAI%20Embedding.ipynb) in order to create a table in your database. This table will store Ania's memories as well as vector embeddings of each one.
 
 ## Start Development Environment
 2. Create an `.env` file based on the `.env.sample` file
